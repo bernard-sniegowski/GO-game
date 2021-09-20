@@ -4,6 +4,7 @@ Author: Bernard Śniegowski
 
 For information about the original GO game see https://en.wikipedia.org/wiki/Go_(game)
 
+File _main.py_ contains the code. To run the game make sure that you have _pygame_ library installed on you local machine
 
 # ABOUT GAME AND RULES
 
